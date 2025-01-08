@@ -1,0 +1,43 @@
+Physical Activity,km/min,km/10min
+Badminton,0.11,1.05
+Basketball,0.10,1.05
+Bowling,0.06,0.57
+Calisthenics,0.09,0.85
+Canoeing,0.07,0.73
+Circuit training,0.16,1.60
+Climbing indoor/outdoor,0.22,2.17
+Dancing,0.09,0.88
+Elliptical trainer,0.16,1.63
+Fencing,0.15,1.46
+Football/soccer,0.16,1.60
+Gardening/yard work,0.06,0.64
+HIIT,0.20,2.01
+Housework,0.06,0.58
+Ice skating,0.07,0.68
+Jumping rope (fast),0.24,2.41
+Jumping rope (moderate),0.20,2.01
+Kayaking,0.12,1.22
+Mowing lawn,0.10,0.97
+Raking lawn/leaves,0.10,0.97
+Rowing,0.12,1.18
+Rowing machine,0.17,1.71
+Sailing (boat and board),0.07,0.73
+Shoveling snow,0.12,1.17
+Skateboarding,0.08,0.82
+Skiing (light/moderate),0.09,0.88
+Skiing (cross-country),0.09,0.92
+Sledding,0.13,1.27
+Snowboarding,0.15,1.46
+Spinning,0.16,1.61
+Surfing,0.07,0.73
+Swimming (butterfly),0.22,2.19
+Swimming (freestyle/breaststroke),0.15,1.46
+Swimming (treading/leisure),0.09,0.93
+Table tennis,0.10,0.97
+Trampoline,0.07,0.72
+Volleyball,0.07,0.73
+Washing a car,0.06,0.57
+Water skiing,0.12,1.17
+Weight lifting (light),0.05,0.54
+Weight lifting (heavy),0.14,1.40
+Yoga,0.04,0.36
