@@ -1,8 +1,10 @@
 Physical Activity,km/min,km/10min
-Badminton,0.11,1.05
+★ Housework,0.06,0.58
+★ Calisthenics,0.09,0.85
+★ HIIT,0.20,2.01
+★ Badminton,0.11,1.05
 Basketball,0.10,1.05
 Bowling,0.06,0.57
-Calisthenics,0.09,0.85
 Canoeing,0.07,0.73
 Circuit training,0.16,1.60
 Climbing indoor/outdoor,0.22,2.17
@@ -11,8 +13,6 @@ Elliptical trainer,0.16,1.63
 Fencing,0.15,1.46
 Football/soccer,0.16,1.60
 Gardening/yard work,0.06,0.64
-HIIT,0.20,2.01
-Housework,0.06,0.58
 Ice skating,0.07,0.68
 Jumping rope (fast),0.24,2.41
 Jumping rope (moderate),0.20,2.01
